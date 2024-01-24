@@ -9,9 +9,9 @@ https://www.pragnakalp.com/build-an-automated-ai-powered-whatsapp-chatbot-with-c
 HTTPS for flask: https://www.educba.com/flask-https/
 
 Linux command to run ngrok:
-# snap install ngrok
-# pip3 install ngrok
-# ngrok http 5020 --log=stdout > ngrok.log &
+> snap install ngrok
+> pip3 install ngrok
+> ngrok http 5020 --log=stdout > ngrok.log &
 
 Run the code:
-#python3 whatsappbot.py
+>python3 whatsappbot.py
