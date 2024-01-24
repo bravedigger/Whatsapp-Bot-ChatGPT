@@ -1,6 +1,6 @@
 # Whatsapp-Bot-ChatGPT
 
-followed this link to build the bot app
+Followed this link to build the bot app
 
 https://www.pragnakalp.com/automate-messages-using-whatsapp-business-api-flask-part-1/
 
